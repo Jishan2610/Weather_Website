@@ -3,7 +3,7 @@
 - Project (CRA) cleanup
 - API calls
 - Search 
-- Movie Info
+-Weather Info of Particular Location
 
 API Stuff
 const api = {
